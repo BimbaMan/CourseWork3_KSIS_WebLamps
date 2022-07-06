@@ -1,0 +1,21 @@
+Изучаем Arduino. Инструменты и методы технического волшебства. Джереми Блум
+
+https://arduinomaster.ru/datchiki-arduino/esp8266-wemos-d1-mini-raspinovka/
+
+https://geekelectronics.org/arduino/wemos-d1-r2-na-esp8266.html
+
+https://www.youtube.com/watch?v=ZxmOS7jRRg4
+
+https://www.youtube.com/watch?v=G7bZJhWD01c
+
+Марко Шварц: Интернет вещей с ESP8266
+
+«Создание умного дома на базе ARDUINO» (2018, ДМК Пресс)
+
+Internet of Things Architecture and Research App with MQTT Protocol
+
+MQTT: A Concise and Practical Tutorial
+
+https://habr.com/ru/post/463669/
+
+https://www.hivemq.com/docs/hivemq/4.8/user-guide/getting-started.html
